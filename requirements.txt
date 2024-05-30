@@ -1,0 +1,7 @@
+Dependencies:
+ - BeautifulSoup4
+ - Click
+
+Зависимости:
+ - BeautifulSoup4
+ - Click
